@@ -1,3 +1,27 @@
 body {
+  font-family: trebuchet !important;
+  background: #ffffff !important;
   text-align: center;
+}
+
+.para {
+  font-size: 18px;
+  color: #616365;
+}
+
+.heading {
+  font-size: 48px;
+  color: #636466;
+  letter-spacing: 9.6px;
+}
+
+.col-md-8 {
+  display: flex;
+  align-items: stretch;
+}
+
+.small-images img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
 }
